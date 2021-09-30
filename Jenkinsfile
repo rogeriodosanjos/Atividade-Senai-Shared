@@ -1,4 +1,4 @@
-@Library(['senai-sharedlib']) _
+@Library(['Atividade-Senai-Shared']) _
 
 sharedBuildPipeline {
 
